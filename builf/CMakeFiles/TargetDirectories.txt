@@ -1,0 +1,3 @@
+/Users/akshatagbandekar/c++/ProjectsC++/Student DBMS/Student-Database-management-system/builf/CMakeFiles/StudentDBMS.dir
+/Users/akshatagbandekar/c++/ProjectsC++/Student DBMS/Student-Database-management-system/builf/CMakeFiles/edit_cache.dir
+/Users/akshatagbandekar/c++/ProjectsC++/Student DBMS/Student-Database-management-system/builf/CMakeFiles/rebuild_cache.dir
